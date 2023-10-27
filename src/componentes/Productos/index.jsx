@@ -3,6 +3,7 @@ import portada from "../../assets/img/portada.png";
 import Lista from "../../assets/img/Lista.png";
 import List from "../../assets/img/List.png";
 import Section from "../../assets/img/Section.png";
+import Footer from "../../assets/img/Footer.png";
 
 export const ProductosLista = () => {
     return (
@@ -21,6 +22,9 @@ export const ProductosLista = () => {
             </div>
             <div>
                 <img class="Section" src={Section} />
+            </div>
+            <div>
+                <img class="Footer" src= {Footer}/>
             </div>
         </header>
 

@@ -64,6 +64,7 @@ input {
   box-sizing: border-box;
   background-color: rgb(245, 242, 242);
   box-shadow: 0 1px 2px rgb(65, 84, 233);
+  border:blue;
 }
 
 .portada{
@@ -98,4 +99,55 @@ h2{
 
 .Section{
   padding: 0 7rem;
+}
+
+.lupa{
+  width: 50px;
+  height: 40px;
+  background-color: rgb(25, 178, 229);
+  border:blue;
+  box-shadow: 0 1px 2px rgb(65, 84, 233);
+  margin-right: 30px;
+}
+
+.ayuda{
+  width: 50px;
+  height: 40px;
+  border: none;
+  background-color: white;
+  margin-right: 30px;
+}
+
+.tienda{
+  width: 50px;
+  height: 40px;
+  border: none;
+  background-color: white;
+  margin-right: 30px;
+}
+
+.usuario{
+  width: 50px;
+  height: 40px;
+  border: none;
+  background-color: white;
+  margin-right: 30px;
+}
+
+.carrito{
+  width: 50px;
+  height: 40px;
+  border: none;
+  background-color: rgb(252, 239, 0);
+  
+  
+}
+
+.desplegable{
+  border:none;
+}
+
+.Footer{
+  width: 150vh;
+  height: 500px;
 }

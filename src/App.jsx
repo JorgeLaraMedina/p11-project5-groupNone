@@ -6,6 +6,8 @@ import portada from './assets/img/portada.png';
 import Lista from './assets/img/Lista.png';
 import List from './assets/img/List.png';
 import Section from './assets/img/Section.png';
+import Footer from './assets/img/Footer.png';
+
 
 function App() {
     return (
